@@ -1,0 +1,5 @@
+---
+- name: Basic Nginx Automation
+  hosts: localhost
+  roles:
+    - nginx
